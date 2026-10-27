@@ -1,0 +1,8 @@
+{
+  "name": "Questionário de Temperamento Keirsey (KTS-II)",
+  "description": "Replicação completa em português do Brasil do Keirsey Temperament Sorter II (KTS-II) com 70 questões, análise dos 4 temperamentos e 16 tipos de personalidade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
